@@ -69,7 +69,7 @@ papers.forEach(paper => {
   p.init(paper);
 });
 
-
+/*
 // Audio Player
 document.addEventListener("DOMContentLoaded", function() {
   const audio = document.getElementById("audio");
@@ -89,4 +89,4 @@ document.addEventListener("DOMContentLoaded", function() {
       audio.pause();
       audio.currentTime = 0;
   });
-});
+}); */
