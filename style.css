@@ -73,8 +73,8 @@ p {
   
 }
 
-
-/* Audio Player */
+/*
+ Audio Player 
 .audio-player {
   display: flex;
   align-items: center;
@@ -102,3 +102,4 @@ p {
 .audio-player button:hover {
   background-color: #45a049;
 }
+*/
